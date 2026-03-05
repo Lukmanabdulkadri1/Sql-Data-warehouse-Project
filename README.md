@@ -75,7 +75,3 @@ This Project is licensed under MIT License- see the License [MIT License](LICENS
 📧 Contact
 Email: LukmanAbdulkadri1@gmail.com/
 Feel free to connect with me on LinkedIn or check out my other projects on GitHub.
-
----
-
-This project is for educational purposes and part of my data engineering portfolio.
