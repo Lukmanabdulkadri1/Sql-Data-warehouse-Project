@@ -47,6 +47,10 @@ data-warehouse-project/
 ├─ /gold                     # Analytics-ready datasets
 │   ├─ /models                # Fact/dimension table definitions
 │   └─ /views                 # SQL views for BI & reporting
+│
+├─ /config                   # Config files, connection strings, secrets (use env variables!)
+├─ requirements.txt / pyproject.toml  # Python dependencies
+└─ .gitignore                # Ignore raw data, credentials, temporary files
 
 
 🚀 How to Run the Project Locally
